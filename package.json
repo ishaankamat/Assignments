@@ -1,5 +1,4 @@
 {
-  "homepage": "http://ishaankamat.github.io/Assignments"
   "name": "Assignments",
   "version": "1.0.0",
   "description": "",
@@ -9,8 +8,6 @@
     "build": "webpack --mode production",
     "dev": "webpack --mode development",
     "start": "webpack-dev-server --open --mode development"
-	"predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
